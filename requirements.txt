@@ -1,0 +1,14 @@
+pdfplumber
+sentence_transformers
+chromadb
+torch
+transformers
+langchain
+numpy
+psycopg2
+pdfplumber
+fastapi
+uvicorn
+sentence-transformers
+torch
+faiss-cpu
